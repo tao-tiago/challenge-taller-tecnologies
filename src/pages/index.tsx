@@ -1,7 +1,8 @@
+
 export default function Page() {
   return (
     <div>
-      Hello World
+      <p>Hello</p>
     </div>
   )
 }
